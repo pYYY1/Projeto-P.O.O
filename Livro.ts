@@ -1,7 +1,7 @@
 class Livro {
-    private titulo: string = '';
-    private autor: string = '';
-    private codigoLivro: string = '';
-    private categoria: string = '';
-    private exemplaresDisponiveis: number = 0;
+    private _titulo: string = '';
+    private _autor: string = '';
+    private _codigoLivro: string = '';
+    private _categoria: string = '';
+    private _exemplaresDisponiveis: number = 0;
 }
