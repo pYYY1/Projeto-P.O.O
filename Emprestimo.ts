@@ -1,4 +1,4 @@
-class Emprestimo{
+export class Emprestimo{
     private _livro: string = '';
     private _usuario: string = '';
     private _dataEmprestimo: Date = new Date();
